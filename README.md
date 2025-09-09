@@ -29,3 +29,24 @@
 - [x] список
 - [ ] список
 
+<https://github.com//>
+
+[ссылка на гитхаб](https://github.com/ "да")
+
+![img](https://avatars.mds.yandex.net/i?id=7162b8c7870312ed635627c551e07d79998c5a27-7745047-images-thumbs&n=13.jpg)
+
+![img](https://avatars.mds.yandex.net/i?id=02baca1520b6352aa9343d8a32d2aa3fde5f0887-16345702-images-thumbs&n=13.jpg)
+
+```python
+print('a,b,c,d')
+```
+# таблица
+
+|месяц | дата | время | 
+|----|-------|-----|
+|июнь|16.06.2025|14:54|
+|июль|15.07.2025|15:23|
+
+
+
+
